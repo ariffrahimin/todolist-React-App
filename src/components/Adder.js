@@ -9,7 +9,7 @@ const Adder = () => {
       .post(URL, {
         listId: 0,
         listContent: todo,
-        listStatus: "not complete",
+        listStatus: "NOT COMPLETE",
       })
       .then(function (response) {
         console.log(response);
