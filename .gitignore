@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+Dockerfile
+.dockerignore
+.vscode/launch.json
+.gitignore
+.gitignore
+.vscode/tasks.json
